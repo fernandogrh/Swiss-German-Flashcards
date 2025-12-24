@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/Python-3.14+-blue?logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-purple?logo=pandas)
+![CSV](https://img.shields.io/badge/CSV-File%20Storage-orange)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Design-red)
+
+![Project](https://img.shields.io/badge/Project-Personal%20Portfolio-success)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 # 🐍 Swiss German Flashcards 🇨🇭
 
 ### A simple but powerful flashcard app built with Python to learn Swiss German vocabulary.
