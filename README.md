@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.14+-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Handling-purple?logo=pandas)
 ![CSV](https://img.shields.io/badge/CSV-File%20Storage-orange)
