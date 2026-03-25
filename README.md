@@ -100,10 +100,10 @@ This project intentionally showcases **core Python development skills**:
 
 ## ▶️ How to Run
 
-  git clone https://github.com/fernandogrh/Swiss-German-Flashcards.git
-  cd Swiss-German-Flashcards
-  pip install -r requirements.txt
-  python main.py
+      git clone https://github.com/fernandogrh/Swiss-German-Flashcards.git
+      cd Swiss-German-Flashcards
+      pip install -r requirements.txt
+      python main.py
 
 > ⚠️ Make sure the 'data/' and 'images/' folders are present.
 
